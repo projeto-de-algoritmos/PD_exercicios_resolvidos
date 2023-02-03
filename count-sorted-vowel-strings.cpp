@@ -14,6 +14,6 @@ public:
 
    int countdorVowelStrings(int n) {
    	 string vogais= "aeiou"; // todas vogais ordenadas lexograficamente 
-   	 return contador(0, n, vowels);
+   	 return contador(0, n, vogais);
    }
 };
