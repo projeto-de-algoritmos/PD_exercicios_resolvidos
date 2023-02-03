@@ -12,7 +12,7 @@ public:
    		return pegar + naoPegar;
    }
 
-   int countdorVowelStrings(int n) {
+   int countVowelStrings(int n) {
    	 string vogais= "aeiou"; // todas vogais ordenadas lexograficamente 
    	 return contador(0, n, vogais);
    }
