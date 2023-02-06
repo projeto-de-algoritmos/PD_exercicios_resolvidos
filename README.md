@@ -30,4 +30,4 @@ Foram selecionados 4 exercicios do site [leetcode](https://leetcode.com/), sendo
 
 ## Apresentação
 
-[Apresentação](assets/apresentacao.mp4)
+[Apresentação](https://github.com/projeto-de-algoritmos/PD_exercicios_resolvidos/blob/master/Reuni%C3%A3o%20em%20_General_-20230206_112629-Meeting%20Recording.mp4)
