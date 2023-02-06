@@ -1,45 +1,33 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# PD_exercicios_resolvidos
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 5<br>
+**Conteúdo da Disciplina**: Programação Dinâmica<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+| Matrícula  | Aluno                         |
+| ---------- | ----------------------------- |
+| 17/0013987 | João Victor de Oliveira Matos |
+| 17/0011119 | Geraldo Victor Alves Barbosa  |
+
+## Sobre
+
+Exercicios resolvidos sobre o conteúdo de Programação dinâmica.
+
+Foram selecionados 4 exercicios do site [leetcode](https://leetcode.com/), sendo eles:
+
+-   [Jump Game V](https://leetcode.com/problems/jump-game-v/)
+-   [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)
+-   [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
+-   [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+![Screenshot 1](assets/1277.png)
+![Screenshot 1](assets/1340.png)
+![Screenshot 1](assets/1463.png)
+![Screenshot 1](assets/1641.png)
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+## Apresentação
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+[Apresentação](assets/apresentacao.mp4)
